@@ -1,0 +1,26 @@
+body {
+    padding:4px;color:#fff;
+    background-color:#ee9600;
+  }
+
+p{
+    color: rgb(250, 242, 246);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.primer-cosa p{
+    color: white;
+}
+
+h2{
+    font-family: Arial, sans-serif;
+}
+
+label{
+    color: #fff;
+}
+
+.contenedor{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
